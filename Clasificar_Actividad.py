@@ -1,136 +1,244 @@
+import re
 import unicodedata
-from collections import defaultdict
 
 
 def normalizar(texto):
-    texto = texto.lower()
+    texto = (texto or "").lower()
     texto = unicodedata.normalize("NFD", texto)
     texto = texto.encode("ascii", "ignore").decode("utf-8")
-    return texto
+    return " ".join(texto.split())
 
 
 TAXONOMIA = {
     "Artes escénicas": {
         "intereses": {
-            "Comedia": ["stand up", "comediante", "comedia", "show comico"],
-            "Drama": ["drama", "romantico", "romance", "tragedia"],
-            "Ciencia Ficción / Fantasía": ["fantasia", "magia", "harry potter", "castillo vagabundo"],
-            "Danza Folclórica / Tradicional": ["samba", "folclor", "tradicional"],
-            "Danza Moderna": ["danza moderna"],
-            "Danza Clásica (Ballet)": ["ballet"],
-            "Contemporánea": ["contemporanea"],
-            "Terror / Suspenso": ["terror", "suspenso"],
-            "Acción / Aventura": ["accion", "aventura"]
+            "Comedia": [
+                "stand up", "standup", "comediante", "comedia", "show comico",
+                "impro", "improvisacion", "monologo", "humor", "open mic"
+            ],
+            "Drama": [
+                "drama", "romantico", "romance", "tragedia", "melodrama",
+                "teatro dramatico", "puesta en escena"
+            ],
+            "Ciencia Ficción / Fantasía": [
+                "fantasia", "magia", "ficcion", "ciencia ficcion", "medieval",
+                "rol en vivo", "cosplay", "harry potter", "anime"
+            ],
+            "Danza Folclórica / Tradicional": [
+                "samba", "folclor", "tradicional", "regional", "flamenco",
+                "danza folklorica", "bailable"
+            ],
+            "Danza Moderna": [
+                "danza moderna", "danza urbana", "hip hop dance", "street dance",
+                "jazz funk"
+            ],
+            "Danza Clásica (Ballet)": [
+                "ballet", "danza clasica", "ballet clasico"
+            ],
+            "Contemporánea": [
+                "contemporanea", "danza contemporanea", "performance"
+            ],
+            "Terror / Suspenso": [
+                "terror", "suspenso", "misterio", "thriller", "paranormal"
+            ],
+            "Acción / Aventura": [
+                "accion", "aventura", "epico", "heroe", "fantastico"
+            ]
         },
         "actividad_g": {
-            "show standup": ["stand up", "comediante"],
-            "Obra de teatro": ["obra", "teatro"],
-            "opera": ["opera"],
-            "cine": ["cine", "pelicula", "proyeccion"],
-            "danza": ["danza", "samba", "ballet"]
+            "show standup": [
+                "stand up", "standup", "comediante", "comedia", "open mic"
+            ],
+            "Obra de teatro": [
+                "obra", "teatro", "puesta en escena", "funcion teatral", "dramaturgia"
+            ],
+            "opera": ["opera", "zarzuela", "recital escenico"],
+            "cine": [
+                "cine", "pelicula", "proyeccion", "cortometraje", "film",
+                "documental", "muestra de cine"
+            ],
+            "danza": [
+                "danza", "samba", "ballet", "coreografia", "baile", "ensamble"
+            ]
         }
     },
-
     "Comunidad": {
         "intereses": {
-            "académico": ["conferencia", "charla", "programa", "academico"],
-            "corporativos": ["gala", "industria", "networking"],
-            "eventos culturales": ["cultural", "arte", "festival"],
-            "fantasia": ["recorrido interactivo", "experiencia inmersiva"],
-            "ciencia": ["ciencia", "tecnologia"],
-            "deportiva": ["carrera", "running"]
+            "académico": [
+                "conferencia", "charla", "programa", "academico", "seminario",
+                "simposio", "masterclass", "clase abierta", "capacitacion"
+            ],
+            "corporativos": [
+                "gala", "industria", "networking", "empresarial", "startup",
+                "negocios", "liderazgo", "emprendimiento"
+            ],
+            "eventos culturales": [
+                "cultural", "arte", "festival", "museo", "patrimonio",
+                "tradicion", "comunidad", "colectivo", "mercado creativo"
+            ],
+            "fantasia": [
+                "recorrido interactivo", "experiencia inmersiva", "escape room",
+                "inmersiva", "interactivo"
+            ],
+            "ciencia": [
+                "ciencia", "tecnologia", "innovacion", "robotica", "ia",
+                "inteligencia artificial", "astronomia", "investigacion"
+            ],
+            "deportiva": [
+                "carrera", "running", "club", "reto", "torneo comunitario"
+            ]
         },
         "actividad_g": {
-            "Visitas": ["recorrido", "visita guiada"],
-            "conferencias": ["conferencia", "programa"],
-            "charlas": ["charla", "panel"],
-            "ferias": ["feria", "expo", "congreso"],
-            "social running": ["running", "carrera"]
+            "Visitas": [
+                "recorrido", "visita guiada", "tour", "walking tour", "ruta cultural"
+            ],
+            "conferencias": [
+                "conferencia", "programa", "seminario", "simposio", "ponencia"
+            ],
+            "charlas": [
+                "charla", "panel", "conversatorio", "mesa redonda", "q&a"
+            ],
+            "ferias": [
+                "feria", "expo", "congreso", "muestra", "bazar", "mercado"
+            ],
+            "social running": [
+                "running", "carrera", "club de corredores", "entrenamiento grupal"
+            ]
         }
     },
-
     "Música": {
         "intereses": {
-            "Pop": ["pop"],
-            "Rock": ["rock"],
-            "Hip Hop / Rap": ["hip hop", "rap"],
-            "Reggaetón": ["reggaeton"],
-            "Música electrónica (EDM)": ["edm", "electronica", "dj"],
-            "R&B": ["r&b"],
-            "Música latina": ["latina", "salsa"],
-            "Jazz": ["jazz"],
-            "Clásica": ["clasica", "orquesta"],
-            "Country": ["country"]
+            "Pop": ["pop", "indie pop", "synth pop"],
+            "Rock": ["rock", "rock alternativo", "metal", "punk", "grunge", "garage"],
+            "Hip Hop / Rap": ["hip hop", "rap", "freestyle", "trap", "batalla"],
+            "Reggaetón": ["reggaeton", "urbano", "perreo", "latin urban"],
+            "Música electrónica (EDM)": [
+                "edm", "electronica", "dj", "house", "techno", "trance", "rave"
+            ],
+            "R&B": ["r&b", "soul", "neo soul"],
+            "Música latina": ["latina", "salsa", "bachata", "cumbia", "regional"],
+            "Jazz": ["jazz", "blues", "big band", "jam session"],
+            "Clásica": ["clasica", "orquesta", "sinfonica", "ensamble de cuerdas"],
+            "Country": ["country", "folk", "bluegrass"]
         },
         "actividad_g": {
-            "Concierto": ["concierto", "en vivo"],
-            "escuchar álbum o playlist": ["album", "playlist"]
+            "Concierto": [
+                "concierto", "en vivo", "live set", "presentacion en vivo",
+                "showcase", "tocada", "recital", "gig"
+            ],
+            "escuchar álbum o playlist": [
+                "album", "playlist", "listening party", "session"
+            ]
         }
     },
-
     "Deportes": {
         "intereses": {
-            "Fútbol": ["futbol"],
-            "Automovilismo": ["formula", "automovilismo"],
-            "Tenis": ["tenis"],
-            "Baloncesto": ["basket", "baloncesto"],
-            "Béisbol": ["beisbol"],
-            "box": ["box"],
-            "lucha": ["lucha"],
-            "artes marciales": ["artes marciales"],
-            "americano": ["americano"]
+            "Fútbol": ["futbol", "soccer", "liga mx", "partido de futbol"],
+            "Automovilismo": ["formula", "automovilismo", "rally", "karting"],
+            "Tenis": ["tenis", "padel"],
+            "Baloncesto": ["basket", "baloncesto", "basquetbol", "nba"],
+            "Béisbol": ["beisbol", "softbol"],
+            "box": ["box", "boxeo"],
+            "lucha": ["lucha", "wrestling", "lucha libre"],
+            "artes marciales": ["artes marciales", "mma", "jiu jitsu", "karate", "taekwondo"],
+            "americano": ["americano", "football", "nfl", "tocho"]
         },
         "actividad_g": {
-            "Ver partido": ["vs", "jornada", "partido"],
-            "asistir": ["evento deportivo"]
+            "Ver partido": [
+                "vs", "jornada", "partido", "match", "temporada", "final", "semifinal"
+            ],
+            "asistir": [
+                "evento deportivo", "torneo", "competencia", "campeonato"
+            ]
         }
     },
-
     "Actividad física": {
         "intereses": {
-            "leve": ["caminata"],
-            "moderada": ["hiking"],
-            "alta": ["maraton", "carrera"]
+            "leve": ["caminata", "senderismo ligero", "wellness walk", "movilidad"],
+            "moderada": ["hiking", "trekking", "clase funcional", "pilates", "yoga"],
+            "alta": ["maraton", "carrera", "crossfit", "bootcamp", "spartan", "triatlon"]
         },
         "actividad_g": {
-            "Salir a correr": ["running"],
-            "correr": ["carrera"],
-            "caminar": ["caminata"],
-            "hiking": ["hiking"]
+            "Salir a correr": ["running", "trote", "club runner", "5k", "10k"],
+            "correr": ["carrera", "maraton", "medio maraton", "trail run"],
+            "caminar": ["caminata", "walking", "senderismo"],
+            "hiking": ["hiking", "trekking", "montanismo"],
+            "entrenar": ["crossfit", "bootcamp", "yoga", "pilates", "fitness"]
         }
     }
 }
 
 
+def preparar_taxonomia():
+    taxonomia_normalizada = {}
+
+    for clase, data in TAXONOMIA.items():
+        taxonomia_normalizada[clase] = {"intereses": {}, "actividad_g": {}}
+
+        for tipo in ("intereses", "actividad_g"):
+            for etiqueta, keywords in data[tipo].items():
+                taxonomia_normalizada[clase][tipo][etiqueta] = [
+                    normalizar(keyword) for keyword in keywords
+                ]
+
+    return taxonomia_normalizada
+
+
+TAXONOMIA_NORMALIZADA = preparar_taxonomia()
+
+
+def contar_keyword(texto, keyword):
+    patron = rf"(?<!\w){re.escape(keyword)}(?!\w)"
+    coincidencias = re.findall(patron, texto)
+
+    if not coincidencias:
+        return 0
+
+    peso = 3 if " " in keyword else 2
+    return len(coincidencias) * peso
+
+
+def calcular_score(texto, keywords):
+    return sum(contar_keyword(texto, keyword) for keyword in keywords)
+
+
+def mejor_etiqueta(texto, mapa):
+    mejor_nombre = None
+    mejor_score = 0
+
+    for nombre, keywords in mapa.items():
+        score = calcular_score(texto, keywords)
+        if score > mejor_score:
+            mejor_nombre = nombre
+            mejor_score = score
+
+    return mejor_nombre, mejor_score
+
+
 def clasificar_evento(evento):
-    texto = normalizar(evento["nombre"] + " " + evento["descripcion"])
+    titulo = normalizar(evento.get("nombre"))
+    descripcion = normalizar(evento.get("descripcion"))
+
+    texto_completo = " ".join(parte for parte in (titulo, descripcion) if parte)
+    texto_prioritario = " ".join(
+        [titulo, titulo, titulo, descripcion]
+    ).strip()
 
     resultados = []
 
-    for clase, data in TAXONOMIA.items():
-        score_clase = 0
-        mejor_interes = None
-        mejor_actividad = None
-        max_interes_score = 0
-        max_actividad_score = 0
-
-        for interes, keywords in data["intereses"].items():
-            score = sum(1 for palabra in keywords if palabra in texto)
-            if score > max_interes_score:
-                max_interes_score = score
-                mejor_interes = interes
-
-        for actividad, keywords in data["actividad_g"].items():
-            score = sum(1 for palabra in keywords if palabra in texto)
-            if score > max_actividad_score:
-                max_actividad_score = score
-                mejor_actividad = actividad
-
-        score_clase = max_interes_score + max_actividad_score
+    for clase, data in TAXONOMIA_NORMALIZADA.items():
+        mejor_interes, score_interes = mejor_etiqueta(
+            texto_prioritario, data["intereses"]
+        )
+        mejor_actividad, score_actividad = mejor_etiqueta(
+            texto_completo, data["actividad_g"]
+        )
+        score_clase = score_interes + score_actividad
 
         if score_clase > 0:
             resultados.append(
-                (clase, mejor_interes, mejor_actividad, score_clase))
+                (clase, mejor_interes, mejor_actividad, score_clase)
+            )
 
     if not resultados:
         return {
@@ -145,7 +253,7 @@ def clasificar_evento(evento):
 
     return {
         "clase": clase,
-        "interes": interes,
-        "actividad_g": actividad,
+        "interes": interes or "eventos culturales",
+        "actividad_g": actividad or "Visitas",
         "score": score
     }
