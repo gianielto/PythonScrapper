@@ -7,11 +7,12 @@ ENV/
 .venv/
 
 # =========================
-# Archivos compilados
+# Caché de Python
 # =========================
 __pycache__/
 *.py[cod]
-*$py.class
+*.pyo
+*.pyd
 
 # =========================
 # Archivos de entorno
@@ -21,24 +22,41 @@ __pycache__/
 *.env
 
 # =========================
+# Archivos de logs
+# =========================
+*.log
+
+# =========================
+# Bases de datos locales
+# =========================
+*.db
+*.sqlite
+
+# =========================
 # Archivos del sistema
 # =========================
 .DS_Store
 Thumbs.db
 
 # =========================
-# Archivos de logs
-# =========================
-*.log
-
-# =========================
-# Archivos de configuración del editor
+# Archivos de configuración del editor / IDE
 # =========================
 .vscode/
 .idea/
+*.sublime-project
+*.sublime-workspace
 
 # =========================
 # Archivos temporales
 # =========================
+*.tmp
+*.bak
 *.swp
-*.swo
+*.lock
+
+# =========================
+# Carpetas o scripts de salida / scrapings
+# =========================
+lib/
+scripts/
+pythonScrapper/Lib/      # Ignora la carpeta de librerías locales si existe
