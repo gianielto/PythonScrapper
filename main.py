@@ -1,4 +1,3 @@
-
 from Extraer_DatosDE_Actividad import obtener_detalle_evento
 from extraerID_Actividades import extraer_event_ids
 from Clasificar_Actividad import clasificar_evento

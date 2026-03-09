@@ -32,13 +32,13 @@ def obtener_detalle_evento(event_id):
     response.raise_for_status()
     data = response.json()
 
-    evento_filtrado = {
-        "nombre": data.get("name", {}).get("text"),
-        "descripcion": data.get("description", {}).get("text"),
-        "imagen": data.get("logo", {}).get("original", {}).get("url") if data.get("logo") else None,
-        "fecha_inicio": data.get("start", {}).get("local"),
-        "fecha_fin": data.get("end", {}).get("local"),
-        "fecha_limite": data.get("end", {}).get("local")
-    }
+    # evento_filtrado = {
+    #     "nombre": data.get("name", {}).get("text"),
+    #     "descripcion": data.get("description", {}).get("text"),
+    #     "imagen": data.get("logo", {}).get("original", {}).get("url") if data.get("logo") else None,
+    #     "fecha_inicio": data.get("start", {}).get("local"),
+    #     "fecha_fin": data.get("end", {}).get("local"),
+    #     "fecha_limite": data.get("end", {}).get("local")
+    # }
 
-    return evento_filtrado
+    return data
