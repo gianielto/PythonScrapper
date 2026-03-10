@@ -5,6 +5,7 @@ import unicodedata
 from Extraer_DatosDE_Actividad import obtener_detalle_evento
 from extraerID_Actividades import extraer_event_ids
 from Clasificar_Actividad import clasificar_evento
+from guardarEventos import guardar_eventos_supabase
 
 BASE_URL = "https://www.eventbrite.com.mx/d/mexico--guadalajara/all-events/"
 MAX_PAGINAS = 8
@@ -70,10 +71,6 @@ def recolectar_ids(max_paginas):
 def procesar_evento(event_id, fecha_hoy):
     detalle = obtener_detalle_evento(event_id)
 
-    # Filtro temporal desactivado para pruebas.
-    # if not es_evento_de_hoy(detalle.get("fecha_inicio"), fecha_hoy):
-        # return None # Filtro temporal desactivado para pruebas.
-
     if not es_evento_en_guadalajara(detalle):
         return None
 
@@ -96,9 +93,10 @@ def procesar_evento(event_id, fecha_hoy):
 
 
 def guardar_eventos(eventos):
+
     with open("eventos.txt", "w", encoding="utf-8") as f:
         f.write("===== EVENTOS ESTRUCTURADOS =====\n\n")
-
+        guardar_eventos_supabase(eventos)
         for i, evento in enumerate(eventos, 1):
             f.write(f"EVENTO #{i}\n")
             f.write(f"Nombre: {evento['nombre']}\n")
@@ -151,7 +149,8 @@ def main():
 
     guardar_eventos(eventos)
 
-    print(f"\nSe encontraron {len(eventos)} eventos para la fecha {fecha_hoy}.")
+    print(
+        f"\nSe encontraron {len(eventos)} eventos para la fecha {fecha_hoy}.")
     print("Archivo 'eventos.txt' generado correctamente.")
 
 

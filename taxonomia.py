@@ -93,7 +93,7 @@ TAXONOMIA = {
             ]
         },
         "actividad_g": {
-            "Visitas": [
+            "visitas": [
                 "recorrido", "visita guiada", "tour", "walking tour", "ruta cultural"
             ],
             "Conferencias": [

@@ -1,0 +1,800 @@
+===== EVENTOS ESTRUCTURADOS =====
+
+EVENTO #1
+Nombre: Tequila and Cantaritos el Güero - Full-Day Tour from Guadalajara
+Descripción: Visit the Tequila town in Jalisco Mexico and Cantaritos los Güeros, Full day tour visiting a real tequila factory. Daily Departures.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F630210879%2F1772087512903%2F1%2Foriginal.20231027-234752?auto=format%2Ccompress&q=75&sharp=10&s=42cc799b36b24d967a45e574549964b3
+Actividad general: visitas
+Interés: Eventos Culturales
+Clase: Comunidad
+Fecha inicio: 2023-10-28T09:30:00
+Fecha límite: 2026-12-29T18:30:00
+Venue: Avenida Chapultepec Sur
+Ciudad: Guadalajara
+Dirección: Avenida Chapultepec Sur, Guadalajara, JAL 44100
+Score clasificación: 4
+------------------------------------------------------------
+
+EVENTO #2
+Nombre: Tequila & Cantaritos el Güero (Tour from Guadalajara) with Jose Cuervo
+Descripción: Let´s go to Tequila and Cantaritos  with this shots included round tour. Amazing views and a lot of fun, no partner needed.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F961253653%2F1772087512903%2F1%2Foriginal.20250215-011312?auto=format%2Ccompress&q=75&sharp=10&s=31e83f2c4cc45176eaa8338333c77a41
+Actividad general: visitas
+Interés: Eventos Culturales
+Clase: Comunidad
+Fecha inicio: 2025-02-15T09:30:00
+Fecha límite: 2026-12-31T18:30:00
+Venue: Guadalajara
+Ciudad: Guadalajara
+Dirección: Glorieta de los Niños Héroes, Guadalajara, JAL 44160
+Score clasificación: 4
+------------------------------------------------------------
+
+EVENTO #3
+Nombre: Saturday Night Bar Crawl in Guadalajara, Mexico
+Descripción: This is the Saturday night bar crawl in Guadalajara's best nightlife district! This is your chance to meet fellow travelers!
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F983252023%2F1566644246783%2F1%2Foriginal.20250313-194950?auto=format%2Ccompress&q=75&sharp=10&s=bfdfcc1cbdf31f9b2df9856565a13b0c
+Actividad general: Visitas
+Interés: Eventos Culturales
+Clase: Comunidad
+Fecha inicio: 2025-03-15T20:30:00
+Fecha límite: 2028-01-02T00:30:00
+Venue: Agüita Agaveria
+Ciudad: Guadalajara
+Dirección: 167 Calle Marsella, Guadalajara, JAL 44150
+Score clasificación: 0
+------------------------------------------------------------
+
+EVENTO #4
+Nombre: Jose Cuervo Factory  | Tequila Adventure with Cantaritos el Güero
+Descripción: Explore José Cuervo Factory and taste the best Tequila & Cantaritos in Mexico! The most complete full day tour from Guadalajara.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1031222263%2F2425230194151%2F1%2Foriginal.20250514-231831?auto=format%2Ccompress&q=75&sharp=10&s=35b59457c9d3d3d083e4a8edc91b31a3
+Actividad general: visitas
+Interés: Eventos Culturales
+Clase: Comunidad
+Fecha inicio: 2025-05-15T09:30:00
+Fecha límite: 2026-12-30T18:30:00
+Venue: Glorieta de los Niños Héroes
+Ciudad: Guadalajara
+Dirección: 1466-A Avenida Niños Héroes, Guadalajara, JAL 44150
+Score clasificación: 2
+------------------------------------------------------------
+
+EVENTO #5
+Nombre: Oración Contemplativa en el ITESO
+Descripción: Compartamos este espacio de silencio, interioridad y experiencia de Dios en comunidad.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177333310%2F194505377128%2F1%2Foriginal.20260211-234822?auto=format%2Ccompress&q=75&sharp=10&s=893cf8fcffe2594948398cf3ba52bc6a
+Actividad general: Visitas
+Interés: Eventos Culturales
+Clase: Comunidad
+Fecha inicio: 2026-02-16T15:15:00
+Fecha límite: 2026-05-18T16:00:00
+Venue: ITESO, Universidad Jesuita de Guadalajara
+Ciudad: San Pedro Tlaquepaque
+Dirección: Auditorio D1 8585 Anillo Periférico Sur Manuel Gómez Morín, San Pedro Tlaquepaque, JAL 45604
+Score clasificación: 0
+------------------------------------------------------------
+
+EVENTO #6
+Nombre: Resiliencia y Adaptación Climática en Cadenas Agroalimentarias
+Descripción: Protege tu rentabilidad y acceso a mercados: diseña una estrategia de adaptación climática para tu empresa.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177999165%2F2065278644323%2F1%2Foriginal.20260220-031717?auto=format%2Ccompress&q=75&sharp=10&s=c6414c572620ae4671840b80243f174e
+Actividad general: Visitas
+Interés: Eventos Culturales
+Clase: Comunidad
+Fecha inicio: 2026-03-10T09:00:00
+Fecha límite: 2026-03-10T13:30:00
+Venue: Av. Patria 1000
+Ciudad: Guadalajara
+Dirección: 1000 Avenida Patria, Guadalajara, JAL 44660
+Score clasificación: 0
+------------------------------------------------------------
+
+EVENTO #7
+Nombre: Tequila & Cantaritos el Güero (Tour from Guadalajara) with Jose Cuervo
+Descripción: Let´s go to Tequila and Cantaritos  with this shots included round tour. Amazing views and a lot of fun, no partner needed.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F961253653%2F1772087512903%2F1%2Foriginal.20250215-011312?auto=format%2Ccompress&q=75&sharp=10&s=31e83f2c4cc45176eaa8338333c77a41
+Actividad general: visitas
+Interés: Eventos Culturales
+Clase: Comunidad
+Fecha inicio: 2026-03-10T09:30:00
+Fecha límite: 2026-03-10T18:30:00
+Venue: Guadalajara
+Ciudad: Guadalajara
+Dirección: Glorieta de los Niños Héroes, Guadalajara, JAL 44160
+Score clasificación: 4
+------------------------------------------------------------
+
+EVENTO #8
+Nombre: Tequila and Cantaritos el Güero - Full-Day Tour from Guadalajara
+Descripción: Visit the Tequila town in Jalisco Mexico and Cantaritos los Güeros, Full day tour visiting a real tequila factory. Daily Departures.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F630210879%2F1772087512903%2F1%2Foriginal.20231027-234752?auto=format%2Ccompress&q=75&sharp=10&s=42cc799b36b24d967a45e574549964b3
+Actividad general: visitas
+Interés: Eventos Culturales
+Clase: Comunidad
+Fecha inicio: 2026-03-10T09:30:00
+Fecha límite: 2026-03-10T18:30:00
+Venue: Avenida Chapultepec Sur
+Ciudad: Guadalajara
+Dirección: Avenida Chapultepec Sur, Guadalajara, JAL 44100
+Score clasificación: 4
+------------------------------------------------------------
+
+EVENTO #9
+Nombre: Jose Cuervo Factory  | Tequila Adventure with Cantaritos el Güero
+Descripción: Explore José Cuervo Factory and taste the best Tequila & Cantaritos in Mexico! The most complete full day tour from Guadalajara.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1031222263%2F2425230194151%2F1%2Foriginal.20250514-231831?auto=format%2Ccompress&q=75&sharp=10&s=35b59457c9d3d3d083e4a8edc91b31a3
+Actividad general: visitas
+Interés: Eventos Culturales
+Clase: Comunidad
+Fecha inicio: 2026-03-10T09:30:00
+Fecha límite: 2026-03-10T18:30:00
+Venue: Glorieta de los Niños Héroes
+Ciudad: Guadalajara
+Dirección: 1466-A Avenida Niños Héroes, Guadalajara, JAL 44150
+Score clasificación: 2
+------------------------------------------------------------
+
+EVENTO #10
+Nombre: Estrategia de precio para la vinculacion global
+Descripción: Aprende a fijar precios que conecten tu negocio con el mundo y hagan crecer tu alcance global.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178924795%2F533224336991%2F1%2Foriginal.20260303-174723?auto=format%2Ccompress&q=75&sharp=10&s=e1c2b03241f5cfad6f63d48625cb77a8
+Actividad general: Visitas
+Interés: Corporativos
+Clase: Comunidad
+Fecha inicio: 2026-03-11T10:00:00
+Fecha límite: 2026-03-11T13:00:00
+Venue: REDi AMG
+Ciudad: Guadalajara
+Dirección: 1505 Calle Manuel López Cotilla, Guadalajara, JAL 44160
+Score clasificación: 2
+------------------------------------------------------------
+
+EVENTO #11
+Nombre: DESAROLLO DE APLICACIONES POR IA - NUCLEA
+Descripción: Aprende a crear apps inteligentes con IA en un taller práctico y divertido que no te puedes perder.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178918765%2F533224336991%2F1%2Foriginal.20260303-165754?auto=format%2Ccompress&q=75&sharp=10&s=d022ae97e301b54c65aa9ccdbd87ba29
+Actividad general: Visitas
+Interés: Ciencia y Tecnología
+Clase: Comunidad
+Fecha inicio: 2026-03-11T16:00:00
+Fecha límite: 2026-03-11T18:00:00
+Venue: REDi AMG
+Ciudad: Guadalajara
+Dirección: 1505 Calle Manuel López Cotilla, Guadalajara, JAL 44160
+Score clasificación: 4
+------------------------------------------------------------
+
+EVENTO #12
+Nombre: Fuckup GDL // Mujeres Sin Filtros
+Descripción: Acompáñanos para una noche de networking+drinks e historias impactantes con Fuckup GDL en colaboración con Creativa GDL y REDi GDL.
+Imagen: None
+Actividad general: Visitas
+Interés: Corporativos
+Clase: Comunidad
+Fecha inicio: 2026-03-12T18:00:00
+Fecha límite: 2026-03-12T21:00:00
+Venue: REDi Guadalajara
+Ciudad: Guadalajara
+Dirección: 1505 Calle Manuel López Cotilla, Guadalajara, JAL 44160
+Score clasificación: 2
+------------------------------------------------------------
+
+EVENTO #13
+Nombre: Rock the House: Ziggi Varo
+Descripción: Quinta temporada. Concierto No. 65.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177121121%2F713478621923%2F1%2Foriginal.20260209-235455?auto=format%2Ccompress&q=75&sharp=10&s=4ee1f2565e0d1e300604b0b8e828bd27
+Actividad general: Concierto / Live
+Interés: Rock / Metal
+Clase: Música
+Fecha inicio: 2026-03-13T20:00:00
+Fecha límite: 2026-03-13T23:00:00
+Venue: Solaz salas de ensayo
+Ciudad: Guadalajara
+Dirección: 3056 Avenida Niños Héroes #int. 1, Guadalajara, JAL 44520
+Score clasificación: 8
+------------------------------------------------------------
+
+EVENTO #14
+Nombre: Em Boss Aka Ëlorian
+Descripción: Únete al flow de Em Boss Aka Elörian, una experiencia en persona llena de buena vibra y pura energía.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178619479%2F763603194903%2F1%2Foriginal.20260227-162144?auto=format%2Ccompress&q=75&sharp=10&s=cbe19a949e24db5ead6c57f03f273034
+Actividad general: Visitas
+Interés: Eventos Culturales
+Clase: Comunidad
+Fecha inicio: 2026-03-13T21:00:00
+Fecha límite: 2026-03-14T03:00:00
+Venue: Benito Fortuna
+Ciudad: Guadalajara
+Dirección: 67 Avenida Chapultepec Sur, Guadalajara, JAL 44160
+Score clasificación: 0
+------------------------------------------------------------
+
+EVENTO #15
+Nombre: HackGDL 2026
+Descripción: ¡Acompáñanos en la tercera edición de HackGD! Será un evento lleno de contenido técnico, así como actividades sociales y divertidas
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1152519743%2F573733640961%2F1%2Foriginal.20251014-042306?auto=format%2Ccompress&q=75&sharp=10&s=d0636384ada0580d916909ebdede2c2b
+Actividad general: Visitas
+Interés: Eventos Culturales
+Clase: Comunidad
+Fecha inicio: 2026-03-14T09:00:00
+Fecha límite: 2026-03-14T23:30:00
+Venue: Jardín Americana
+Ciudad: Guadalajara
+Dirección: 1305 Avenida Ignacio L Vallarta, Guadalajara, JAL 44160
+Score clasificación: 0
+------------------------------------------------------------
+
+EVENTO #16
+Nombre: Saturday Night Bar Crawl in Guadalajara, Mexico
+Descripción: This is the Saturday night bar crawl in Guadalajara's best nightlife district! This is your chance to meet fellow travelers!
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F983252023%2F1566644246783%2F1%2Foriginal.20250313-194950?auto=format%2Ccompress&q=75&sharp=10&s=bfdfcc1cbdf31f9b2df9856565a13b0c
+Actividad general: Visitas
+Interés: Eventos Culturales
+Clase: Comunidad
+Fecha inicio: 2026-03-14T20:30:00
+Fecha límite: 2026-03-15T00:30:00
+Venue: Agüita Agaveria
+Ciudad: Guadalajara
+Dirección: 167 Calle Marsella, Guadalajara, JAL 44150
+Score clasificación: 0
+------------------------------------------------------------
+
+EVENTO #17
+Nombre: Rico AtardeSet Marzo
+Descripción: Estamos listos para nuestra siguiente edicion, en la que prometemos mantener la misma calidad que en nuestras ediciones anteriores.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179257608%2F2136526150003%2F1%2Foriginal.20260307-020110?auto=format%2Ccompress&q=75&sharp=10&s=56ecf46160a924a6faad3a0d3e4091a9
+Actividad general: Visitas
+Interés: Eventos Culturales
+Clase: Comunidad
+Fecha inicio: 2026-03-15T16:00:00
+Fecha límite: 2026-03-16T00:00:00
+Venue: SALA ROXY
+Ciudad: Guadalajara
+Dirección: Mezquitán #80, Guadalajara, JAL 44100
+Score clasificación: 0
+------------------------------------------------------------
+
+EVENTO #18
+Nombre: Sunset Music Sessions | Guadalajara
+Descripción: An intimate rooftop house & tech-house session at sunset, bringing together nomads, travelers and locals in Guadalajara.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178652274%2F224980847503%2F1%2Foriginal.20260227-221114?auto=format%2Ccompress&q=75&sharp=10&s=26efd669798b3a074c02b0f4ada165d5
+Actividad general: Escuchar Álbum / Playlist
+Interés: Eventos Culturales
+Clase: Música
+Fecha inicio: 2026-03-15T18:00:00
+Fecha límite: 2026-03-15T23:30:00
+Venue: lady lee - rooftop
+Ciudad: Guadalajara
+Dirección: 20A Avenida Chapultepec Norte, Guadalajara, JAL 44600
+Score clasificación: 2
+------------------------------------------------------------
+
+EVENTO #19
+Nombre: Fracasados Anónimos In-House Humana11
+Descripción: Empresarios comparten sus mayores fracasos en los negocios con humor, aprendizaje y cerveza.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179133888%2F231650238713%2F1%2Foriginal.20260305-184042?auto=format%2Ccompress&q=75&sharp=10&s=15dd39a28b70195211e5ba89885affc1
+Actividad general: Visitas
+Interés: Comedia
+Clase: Artes escénicas
+Fecha inicio: 2026-03-18T18:00:00
+Fecha límite: 2026-03-18T21:00:00
+Venue: Humana11
+Ciudad: Guadalajara
+Dirección: 2077 Avenida Adolfo López Mateos Sur #Interior 1B, Guadalajara, JAL 44510
+Score clasificación: 2
+------------------------------------------------------------
+
+EVENTO #20
+Nombre: Taller  Mujeres Emprendedoras con Google
+Descripción: ¿Tu negocio ya aparece en google maps pero no genera suficientes ventas? Posiciona tu ficha y destácate de tu competencia.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179048021%2F2993790729090%2F1%2Foriginal.20260304-203619?auto=format%2Ccompress&q=75&sharp=10&s=344f17bce47c32636ac7438b912cb961
+Actividad general: Visitas
+Interés: Académico
+Clase: Comunidad
+Fecha inicio: 2026-03-19T15:00:00
+Fecha límite: 2026-03-19T17:00:00
+Venue: REDi AMG
+Ciudad: Guadalajara
+Dirección: 1505 Calle Manuel López Cotilla, Guadalajara, JAL 44160
+Score clasificación: 6
+------------------------------------------------------------
+
+EVENTO #21
+Nombre: Smart Sales - Domina tu funnel de ventas
+Descripción: Optimiza cada etapa de tu proceso comercial, convierte más oportunidades y toma decisiones estratégicas con enfoque en resultados.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177965542%2F2991269604897%2F1%2Foriginal.20260219-193720?auto=format%2Ccompress&q=75&sharp=10&s=c90622297dc3e026a36eda1a572bcc81
+Actividad general: Visitas
+Interés: Corporativos
+Clase: Comunidad
+Fecha inicio: 2026-03-19T18:00:00
+Fecha límite: 2026-03-19T20:30:00
+Venue: Humana11
+Ciudad: Guadalajara
+Dirección: 2077 Avenida Adolfo López Mateos Sur #Interior 1B, Guadalajara, JAL 44510
+Score clasificación: 6
+------------------------------------------------------------
+
+EVENTO #22
+Nombre: Fracasados Anónimos #5
+Descripción: Empresarios comparten sus mayores fracasos en los negocios con humor, aprendizaje y cerveza.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179105128%2F231650238713%2F1%2Foriginal.20260305-135129?auto=format%2Ccompress&q=75&sharp=10&s=a53c9ce0229adab8e6e34a9cca755bbe
+Actividad general: Visitas
+Interés: Comedia
+Clase: Artes escénicas
+Fecha inicio: 2026-03-19T19:00:00
+Fecha límite: 2026-03-19T22:00:00
+Venue: Capital Room Chapultepec
+Ciudad: Guadalajara
+Dirección: 15 Avenida Chapultepec Sur #local 15 D, Guadalajara, JAL 44160
+Score clasificación: 2
+------------------------------------------------------------
+
+EVENTO #23
+Nombre: Potentia 2026
+Descripción: Potentia es el evento de 3 días que transforma tu vida y tus negocios, con inspiración, crecimiento y networking para líderes con propósito.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177031518%2F2879692154031%2F1%2Foriginal.20260209-033754?auto=format%2Ccompress&q=75&sharp=10&s=5a6988d2f9c7220040754406da156500
+Actividad general: Visitas
+Interés: Corporativos
+Clase: Comunidad
+Fecha inicio: 2026-03-20T09:00:00
+Fecha límite: 2026-03-22T07:00:00
+Venue: MIND México Innovación y Diseño
+Ciudad: Guadalajara
+Dirección: 2350 Avenida Faro, Guadalajara, JAL 44550
+Score clasificación: 4
+------------------------------------------------------------
+
+EVENTO #24
+Nombre: BootCamp Guadalajara
+Descripción: BOOTCAMP GUADALAJARA - ESTÁS A PUNTO DE VIVIR ALGO DIFERENTE
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177743011%2F833068068903%2F1%2Foriginal.20260217-171233?auto=format%2Ccompress&q=75&sharp=10&s=0ab4da2b59d64a35883635489ad1fced
+Actividad general: Visitas
+Interés: Ciencia y Tecnología
+Clase: Comunidad
+Fecha inicio: 2026-03-21T09:00:00
+Fecha límite: 2026-03-21T14:00:00
+Venue: Hilton Guadalajara Midtown
+Ciudad: Guadalajara
+Dirección: 2405 Avenida Adolfo López Mateos Norte #300, Guadalajara, JAL 44648
+Score clasificación: 8
+------------------------------------------------------------
+
+EVENTO #25
+Nombre: doTERRA LATAM Gira Ciencia y Bienestar 2026 - Guadalajara
+Descripción: ¡Únete a nosotros en la Gira Ciencia y Bienestar en tu ciudad mas cercana!
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174237388%2F1622581586283%2F1%2Foriginal.20260107-192716?auto=format%2Ccompress&q=75&sharp=10&s=7f7d884ea5c1f0f7a22371b84b629356
+Actividad general: Visitas
+Interés: Ciencia y Tecnología
+Clase: Comunidad
+Fecha inicio: 2026-03-21T10:00:00
+Fecha límite: 2026-03-21T12:00:00
+Venue: Fiesta Americana Guadalajara
+Ciudad: Guadalajara
+Dirección: 225 Calle Aurelio Aceves, Guadalajara, JAL 44110
+Score clasificación: 8
+------------------------------------------------------------
+
+EVENTO #26
+Nombre: the Lesbian club |21 de Marzo 2026 |Reinas de la primavera
+Descripción: ¡Prepárate para celebrar la llegada de la primavera con la mejor fiesta sáfica en GDL!
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177795676%2F2988778377527%2F1%2Foriginal.20260218-022455?auto=format%2Ccompress&q=75&sharp=10&s=926d27c86f60e3beb52aa7c8002f7a87
+Actividad general: Visitas
+Interés: Deportiva / Recreativa
+Clase: Comunidad
+Fecha inicio: 2026-03-21T17:00:00
+Fecha límite: 2026-03-21T22:00:00
+Venue: C. José María Morelos 741
+Ciudad: Guadalajara
+Dirección: 741 Calle José María Morelos, Guadalajara, JAL 44100
+Score clasificación: 6
+------------------------------------------------------------
+
+EVENTO #27
+Nombre: Run Pal Perro (Relay Race)
+Descripción: Carrera de relevos 5K + 5K (10K total).
+Evento sin fines de lucro en apoyo al Refugio Buenos Chicos.
+Premiación por equipos y rifas.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174860886%2F155723834415%2F1%2Foriginal.20260114-171343?auto=format%2Ccompress&q=75&sharp=10&s=9d0ab3c7934f93366c24d7f0894fcc9c
+Actividad general: Salir a Correr
+Interés: Alta / Intensiva
+Clase: Actividad Física
+Fecha inicio: 2026-03-22T08:00:00
+Fecha límite: 2026-03-22T11:00:00
+Venue: Casa Colimita
+Ciudad: Guadalajara
+Dirección: 146 Calle Gabriel Ramos Millán, Guadalajara, JAL 44600
+Score clasificación: 5
+------------------------------------------------------------
+
+EVENTO #28
+Nombre: Oración Contemplativa en el ITESO
+Descripción: Compartamos este espacio de silencio, interioridad y experiencia de Dios en comunidad.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177333310%2F194505377128%2F1%2Foriginal.20260211-234822?auto=format%2Ccompress&q=75&sharp=10&s=893cf8fcffe2594948398cf3ba52bc6a
+Actividad general: Visitas
+Interés: Eventos Culturales
+Clase: Comunidad
+Fecha inicio: 2026-03-23T15:15:00
+Fecha límite: 2026-03-23T16:00:00
+Venue: ITESO, Universidad Jesuita de Guadalajara
+Ciudad: San Pedro Tlaquepaque
+Dirección: Auditorio D1 8585 Anillo Periférico Sur Manuel Gómez Morín, San Pedro Tlaquepaque, JAL 45604
+Score clasificación: 0
+------------------------------------------------------------
+
+EVENTO #29
+Nombre: Turismo Inteligente y el Futuro de los datos | Lanzamiento quexIA
+Descripción: Descubre cómo la IA está revolucionando el turismo con el lanzamiento de quexIA. De la mano de panelistas, founders, expertos y más.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179181115%2F2994068519103%2F1%2Foriginal.20260306-052226?auto=format%2Ccompress&q=75&sharp=10&s=2d5e6bd920c986b9831b50d940ebcd1f
+Actividad general: Visitas
+Interés: Ciencia y Tecnología
+Clase: Comunidad
+Fecha inicio: 2026-03-26T16:30:00
+Fecha límite: 2026-03-26T19:30:00
+Venue: BBVA Spark Space Guadalajara
+Ciudad: Zapopan
+Dirección: 45 Paseo de los Virreyes, Zapopan, JAL 45116
+Score clasificación: 1
+------------------------------------------------------------
+
+EVENTO #30
+Nombre: Comedy Club Americana Vol II
+Descripción: Get ready to laugh your heart out at Comedy Club Americana Vol II – the funniest night in town!
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179221063%2F1355522094793%2F1%2Foriginal.20260306-173535?auto=format%2Ccompress&q=75&sharp=10&s=60da9ee9da0d94dcd012a3b48590318d
+Actividad general: Visitas
+Interés: Deportiva / Recreativa
+Clase: Comunidad
+Fecha inicio: 2026-03-26T20:00:00
+Fecha límite: 2026-03-26T23:00:00
+Venue: WIT Apartments
+Ciudad: Guadalajara
+Dirección: Justo Sierra 2135 Ladron de Guevara, Guadalajara, JAL 44600
+Score clasificación: 8
+------------------------------------------------------------
+
+EVENTO #31
+Nombre: HARRY POTTER Y LA PIEDRA FILOSOFAL: RECORRIDO INTERACTIVO
+Descripción: Vive Harry Potter y la Piedra Filosofal en un recorrido interactivo lleno de magia dentro del Palacio de las Vacas.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174362986%2F563548210565%2F1%2Foriginal.20260108-225914?auto=format%2Ccompress&q=75&sharp=10&s=9d01e129cdfff87710c93338735d262a
+Actividad general: visitas
+Interés: Experiencias Fantasía / Interactivas
+Clase: Comunidad
+Fecha inicio: 2026-03-27T18:00:00
+Fecha límite: 2026-03-27T19:30:00
+Venue: El Palacio de Las Vacas
+Ciudad: Guadalajara
+Dirección: 630 Calle San Felipe, Guadalajara, JAL 44100
+Score clasificación: 28
+------------------------------------------------------------
+
+EVENTO #32
+Nombre: HARRY POTTER Y LA PIEDRA FILOSOFAL: RECORRIDO INTERACTIVO
+Descripción: Vive Harry Potter y la Piedra Filosofal en un recorrido interactivo lleno de magia dentro del Palacio de las Vacas.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174362986%2F563548210565%2F1%2Foriginal.20260108-225914?auto=format%2Ccompress&q=75&sharp=10&s=9d01e129cdfff87710c93338735d262a
+Actividad general: visitas
+Interés: Experiencias Fantasía / Interactivas
+Clase: Comunidad
+Fecha inicio: 2026-03-27T18:00:00
+Fecha límite: 2026-04-25T21:30:00
+Venue: El Palacio de Las Vacas
+Ciudad: Guadalajara
+Dirección: 630 Calle San Felipe, Guadalajara, JAL 44100
+Score clasificación: 28
+------------------------------------------------------------
+
+EVENTO #33
+Nombre: Nata en Guadalajara
+Descripción: Nata en Guadalajara, en vivo en el foro 907 tocando canciones de todos sus discos.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178112795%2F2992890141801%2F1%2Foriginal.20260221-202708?auto=format%2Ccompress&q=75&sharp=10&s=746589abe77600123dac7a25d84e4e60
+Actividad general: Concierto / Live
+Interés: Eventos Culturales
+Clase: Música
+Fecha inicio: 2026-03-27T21:00:00
+Fecha límite: 2026-03-27T23:00:00
+Venue: Novecientosiete
+Ciudad: Guadalajara
+Dirección: 135 Calle Nueva Galicia, Guadalajara, JAL 44100
+Score clasificación: 4
+------------------------------------------------------------
+
+EVENTO #34
+Nombre: LSD La Ruta del Peregrino a Talpa (Long Slow Distance)
+Descripción: Travesía por la Ruta del Peregrino. 87km formato LONG SLOW DISTANCE. ¡Todos comenzamos, todos llegamos!
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178695757%2F2588139472031%2F1%2Foriginal.20260228-205723?auto=format%2Ccompress&q=75&sharp=10&s=610e3692868661640abaf3375669afa6
+Actividad general: Visitas
+Interés: Eventos Culturales
+Clase: Comunidad
+Fecha inicio: 2026-03-28T12:00:00
+Fecha límite: 2026-03-29T15:00:00
+Venue: Deporte Hábitat
+Ciudad: Guadalajara
+Dirección: 2593 Calle Miguel Lerdo de Tejada, Guadalajara, JAL 44130
+Score clasificación: 0
+------------------------------------------------------------
+
+EVENTO #35
+Nombre: 2ª Fiesta K-Pop Collective | Guadalajara
+Descripción: K-Pop vibes only ✨ ¡La 2ª Fiesta K-Pop está aquí!
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176349791%2F334043267533%2F1%2Foriginal.20260131-223940?auto=format%2Ccompress&q=75&sharp=10&s=91e3f4ab6f3a550c2f8d55f4f28868d1
+Actividad general: Visitas
+Interés: Pop / Indie
+Clase: Música
+Fecha inicio: 2026-03-28T16:00:00
+Fecha límite: 2026-03-28T21:00:00
+Venue: ENVY Guadalajara
+Ciudad: Guadalajara
+Dirección: Av. La Paz 2315, Guadalajara, JAL 44158
+Score clasificación: 5
+------------------------------------------------------------
+
+EVENTO #36
+Nombre: Cuyeyo show de stand up
+Descripción: Isra Guzman presenta su show completo que lleva por nombre Cuyeyo
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176790446%2F424251576213%2F1%2Foriginal.20260205-163946?auto=format%2Ccompress&q=75&sharp=10&s=a00c2e75e0798cec19db4d6508f01014
+Actividad general: Show Standup
+Interés: Comedia
+Clase: Artes escénicas
+Fecha inicio: 2026-03-28T21:00:00
+Fecha límite: 2026-03-28T23:00:00
+Venue: Hoffman cafe
+Ciudad: Guadalajara
+Dirección: 1950 Calle Mexicaltzingo, Guadalajara, JAL 44160
+Score clasificación: 16
+------------------------------------------------------------
+
+EVENTO #37
+Nombre: SEÑOR MARRANO TOUR GDL
+Descripción: SEÑOR MARRANO EN GUADALAJARA UNA VEZ MAS MADAFAKASS, VAMOS POR EL SEGUNDO SOLD OUT...
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174477959%2F2111072946113%2F1%2Foriginal.20260110-070444?auto=format%2Ccompress&q=75&sharp=10&s=5821bca94086c8808a7d2ee845fbc24e
+Actividad general: visitas
+Interés: Eventos Culturales
+Clase: Comunidad
+Fecha inicio: 2026-03-29T18:00:00
+Fecha límite: 2026-03-29T22:30:00
+Venue: CCC Centro Cultural Calzada
+Ciudad: Guadalajara
+Dirección: 414 Calzada Independencia Norte, Guadalajara, JAL 44360
+Score clasificación: 2
+------------------------------------------------------------
+
+EVENTO #38
+Nombre: Giorgio Siladi en Guadalajara
+Descripción: Disfruta de un show intimo de Giorgio Siladi en Guadalajara
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175851682%2F1640899611113%2F1%2Foriginal.20260126-164111?auto=format%2Ccompress&q=75&sharp=10&s=a6aef7454e2373cf4a1f2bf7459c4f79
+Actividad general: Visitas
+Interés: Eventos Culturales
+Clase: Comunidad
+Fecha inicio: 2026-03-29T20:00:00
+Fecha límite: 2026-03-29T22:00:00
+Venue: Tantuyo Centro Cultural
+Ciudad: Guadalajara
+Dirección: 662 Calle Progreso, Guadalajara, JAL 44190
+Score clasificación: 0
+------------------------------------------------------------
+
+EVENTO #39
+Nombre: De Emprendedor a Dueño: Estrategia Financiera para Negocios.
+Descripción: ¿Listo para ascender de emprendedor a dueño de negocio? Acompáñanos a profundizar en las estrategias financieras para tu negocio.
+Imagen: None
+Actividad general: Visitas
+Interés: Corporativos
+Clase: Comunidad
+Fecha inicio: 2026-03-31T10:00:00
+Fecha límite: 2026-03-31T13:00:00
+Venue: REDi AMG
+Ciudad: Guadalajara
+Dirección: 1505 Calle Manuel López Cotilla, Guadalajara, JAL 44160
+Score clasificación: 10
+------------------------------------------------------------
+
+EVENTO #40
+Nombre: Certificación Técnica, Producto y Ventas: FORTRESS POWER y WTS
+Descripción: Descubre cómo realizar visitas de ventas exitosas, dominar el arte de vender sin bajar el precio, y generar referido.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177221857%2F2373326409263%2F1%2Foriginal.20260210-220921?auto=format%2Ccompress&q=75&sharp=10&s=6c1ef7d4753da7abbcc121b4b9cc6916
+Actividad general: Visitas
+Interés: Corporativos
+Clase: Comunidad
+Fecha inicio: 2026-04-13T09:00:00
+Fecha límite: 2026-04-13T17:00:00
+Venue: C. Ottawa 1200
+Ciudad: Guadalajara
+Dirección: 1200 Calle Ottawa, Guadalajara, JAL 44648
+Score clasificación: 8
+------------------------------------------------------------
+
+EVENTO #41
+Nombre: Taller Soluciones Legales y Contables para el SAT con GOOGLE
+Descripción: ¿Sabías que puedes utilizar Google como respaldo Legal y Fiscal?   Verificar domicilios fiscales en el SAT, Demostrar materialidad digital
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179039294%2F2993790729090%2F1%2Foriginal.20260304-191746?auto=format%2Ccompress&q=75&sharp=10&s=9d9f11de2a5df0e0b9e749f6228e4922
+Actividad general: Visitas
+Interés: Académico
+Clase: Comunidad
+Fecha inicio: 2026-04-13T15:00:00
+Fecha límite: 2026-04-13T17:00:00
+Venue: REDi AMG
+Ciudad: Guadalajara
+Dirección: 1505 Calle Manuel López Cotilla, Guadalajara, JAL 44160
+Score clasificación: 6
+------------------------------------------------------------
+
+EVENTO #42
+Nombre: 1° Carrera Solar 5K - CPEF
+Descripción: Juntos podemos quitar las sombras.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177323453%2F2068635871553%2F1%2Foriginal.20260211-215500?auto=format%2Ccompress&q=75&sharp=10&s=5894915b714ec85175b0f8daa2d10b82
+Actividad general: Social Running / Actividad Deportiva
+Interés: Deportiva / Recreativa
+Clase: Comunidad
+Fecha inicio: 2026-04-14T07:00:00
+Fecha límite: 2026-04-14T08:30:00
+Venue: Parque Tucson
+Ciudad: Guadalajara
+Dirección: C. Alfonso Cravioto 2280, Guadalajara, JAL 44298
+Score clasificación: 8
+------------------------------------------------------------
+
+EVENTO #43
+Nombre: ¡Fox ESS llegó a México! Te invitamos al Launch & Technical Certification
+Descripción: Seminario exclusivo para instaladores, integradores y distribuidores donde presentaremos oficialmente el sistema de almacenamiento.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177979817%2F1048094470663%2F1%2Foriginal.20260219-215745?auto=format%2Ccompress&q=75&sharp=10&s=cfd8bc56dc2f5a47d31dc414439e7df3
+Actividad general: Conferencias
+Interés: Académico
+Clase: Comunidad
+Fecha inicio: 2026-04-14T08:30:00
+Fecha límite: 2026-04-14T14:30:00
+Venue: The Westin Guadalajara
+Ciudad: Guadalajara
+Dirección: 2911 Avenida de Las Rosas, Guadalajara, JAL 44530
+Score clasificación: 4
+------------------------------------------------------------
+
+EVENTO #44
+Nombre: INVICTUS NIGHT
+Descripción: UNA NOCHE DE GALA PARA PREMIAR A LO INVENCIBLE DE LA INDUSTRIA.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176032082%2F2068635871553%2F1%2Foriginal.20260128-061027?auto=format%2Ccompress&q=75&sharp=10&s=1c88a8551bad8b10b398434740cd7ba8
+Actividad general: Visitas
+Interés: Corporativos
+Clase: Comunidad
+Fecha inicio: 2026-04-15T20:00:00
+Fecha límite: 2026-04-16T01:00:00
+Venue: Hospicio Cabañas
+Ciudad: Guadalajara
+Dirección: Plaza Tapatía Zona Centro,, Guadalajara, JAL 44360
+Score clasificación: 4
+------------------------------------------------------------
+
+EVENTO #45
+Nombre: Lidera el cambio público con sentido humano: Desayuno informativo
+Descripción: Conoce las maestrías, resuelve dudas de admisión y becas en un desayuno en Casa ITESO Clavigero.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177426677%2F451346120620%2F1%2Foriginal.20260212-232628?auto=format%2Ccompress&q=75&sharp=10&s=6b98752e43b55a04cda07e07ab1a564c
+Actividad general: Visitas
+Interés: Eventos Culturales
+Clase: Comunidad
+Fecha inicio: 2026-04-17T09:00:00
+Fecha límite: 2026-04-17T11:00:00
+Venue: Casa ITESO Clavigero
+Ciudad: Guadalajara
+Dirección: C. José Guadalupe Zuno Hernández 2083, Guadalajara, JAL 44140
+Score clasificación: 0
+------------------------------------------------------------
+
+EVENTO #46
+Nombre: PUNTO EMPRESARIAL 2026
+Descripción: El encuentro empresarial que marca el rumbo 2026–2028: informe, toma de compromiso y líderes que transforman Jalisco.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176679165%2F2047795150603%2F1%2Foriginal.20260204-155230?auto=format%2Ccompress&q=75&sharp=10&s=eafa1f0324b5f7a4ffaf98772bdb957b
+Actividad general: Visitas
+Interés: Corporativos
+Clase: Comunidad
+Fecha inicio: 2026-04-20T08:00:00
+Fecha límite: 2026-04-20T11:00:00
+Venue: Expo Guadalajara
+Ciudad: Guadalajara
+Dirección: 1499 Avenida Mariano Otero, Guadalajara, JAL 44550
+Score clasificación: 8
+------------------------------------------------------------
+
+EVENTO #47
+Nombre: San Venus en Guadalajara
+Descripción: San Venus vuelve a su ciudad natal con el 5+12 Tour acompañados de Norte y SilentNoir
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178962872%2F2765806828341%2F1%2Foriginal.20260303-234504?auto=format%2Ccompress&q=75&sharp=10&s=d966629f3b930c44cd36f1e98896bdb2
+Actividad general: visitas
+Interés: Eventos Culturales
+Clase: Comunidad
+Fecha inicio: 2026-05-16T19:00:00
+Fecha límite: 2026-05-16T23:30:00
+Venue: C3 ROOFTOP
+Ciudad: Guadalajara
+Dirección: 1488 Avenida Ignacio L Vallarta, Guadalajara, JAL 44600
+Score clasificación: 2
+------------------------------------------------------------
+
+EVENTO #48
+Nombre: 50 Aniversario Maestría en Desarrollo Humano
+Descripción: ¡Únete a esta celebración y conmemora con nosotros!
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179150932%2F1272066637483%2F1%2Foriginal.20260226-235001?auto=format%2Ccompress&q=75&sharp=10&s=2f5f71fc5f380b73ba298f0fdebf9c14
+Actividad general: Visitas
+Interés: Eventos Culturales
+Clase: Comunidad
+Fecha inicio: 2026-05-22T09:00:00
+Fecha límite: 2026-05-23T16:00:00
+Venue: ITESO, Universidad Jesuita de Guadalajara
+Ciudad: San Pedro Tlaquepaque
+Dirección: 8585 Anillo Periférico Sur Manuel Gómez Morín, San Pedro Tlaquepaque, JAL 45604
+Score clasificación: 0
+------------------------------------------------------------
+
+EVENTO #49
+Nombre: LOS MÁS PESADOS 2026
+Descripción: LOS MÁS PESADOS 2026 llega a Guadalajara, México 
+Tres días llenos de cultura, competencia y comunidad con invitados internacionales.
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1133112903%2F2638771160141%2F1%2Foriginal.20250923-193705?auto=format%2Ccompress&q=75&sharp=10&s=7a5f577c99260c5902ef877ae3ae04e8
+Actividad general: Asistir a Evento Deportivo
+Interés: Eventos Culturales
+Clase: Deportes
+Fecha inicio: 2026-05-22T10:00:00
+Fecha límite: 2026-05-24T23:59:00
+Venue: Laboratorio de Arte Variedades (LARVA)
+Ciudad: Guadalajara
+Dirección: 120 Calle Ocampo, Guadalajara, JAL 44100
+Score clasificación: 2
+------------------------------------------------------------
+
+EVENTO #50
+Nombre: Martes de Diseño | Desde la Materia
+Descripción: Conferencia impartida por André Restelli
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177766774%2F1025118315583%2F1%2Foriginal.20260217-203637?auto=format%2Ccompress&q=75&sharp=10&s=fa6470e542f30065f00a9dc69332ef83
+Actividad general: Conferencias
+Interés: Académico
+Clase: Comunidad
+Fecha inicio: 2026-05-26T18:30:00
+Fecha límite: 2026-05-26T20:30:00
+Venue: ForA
+Ciudad: Guadalajara
+Dirección: 2208 Calle Mexicaltzingo, Guadalajara, JAL 44140
+Score clasificación: 4
+------------------------------------------------------------
+
+EVENTO #51
+Nombre: Congreso Internacional 30 Aniversario NEUROORTOMAX
+Descripción: Congreso 2026 de Odontopediatría en Guadalajara. Actualización académica, diploma 12 hrs crédito y celebración especial. ¡Inscríbete!
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178658750%2F2993620883435%2F1%2Foriginal.20260228-000602?auto=format%2Ccompress&q=75&sharp=10&s=dc6aa41cb3e0bccd503190e544f985f0
+Actividad general: Ferias / Expos
+Interés: Eventos Culturales
+Clase: Comunidad
+Fecha inicio: 2026-07-31T08:00:00
+Fecha límite: 2026-07-31T20:00:00
+Venue: Fiesta Americana Guadalajara
+Ciudad: Guadalajara
+Dirección: 225 Calle Aurelio Aceves, Guadalajara, JAL 44110
+Score clasificación: 4
+------------------------------------------------------------
+
+EVENTO #52
+Nombre: Congreso Internacional 30 Aniversario NEUROORTOMAX
+Descripción: Congreso 2026 de Odontopediatría en Guadalajara. Actualización académica, diploma 12 hrs crédito y celebración especial. ¡Inscríbete!
+Imagen: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178658750%2F2993620883435%2F1%2Foriginal.20260228-000602?auto=format%2Ccompress&q=75&sharp=10&s=dc6aa41cb3e0bccd503190e544f985f0
+Actividad general: Ferias / Expos
+Interés: Eventos Culturales
+Clase: Comunidad
+Fecha inicio: 2026-07-31T08:00:00
+Fecha límite: 2026-07-31T20:00:00
+Venue: Fiesta Americana Guadalajara
+Ciudad: Guadalajara
+Dirección: 225 Calle Aurelio Aceves, Guadalajara, JAL 44110
+Score clasificación: 4
+------------------------------------------------------------
+
+EVENTO #53
+Nombre: Feria de Investigación y Posgrados
+Descripción: Evento en CUADD para estudiantes de cualquier área interesados en conocer opciones de investigación y posgrados.
+Imagen: None
+Actividad general: Ferias / Expos
+Interés: Ciencia y Tecnología
+Clase: Comunidad
+Fecha inicio: 2026-10-05T09:00:00
+Fecha límite: 2026-10-05T18:00:00
+Venue: CUAAD Campus Huentitán
+Ciudad: Guadalajara
+Dirección: 5075 Calzada Independencia Norte, Guadalajara, JAL 44250
+Score clasificación: 10
+------------------------------------------------------------
+

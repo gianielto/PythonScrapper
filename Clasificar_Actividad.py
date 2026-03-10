@@ -294,8 +294,6 @@ def preparar_taxonomia():
 
 TAXONOMIA_NORMALIZADA = preparar_taxonomia()
 
-# --- Contar coincidencias con peso refinado ---
-
 
 def contar_keyword(texto, keyword):
     patron = rf"(?<!\w){re.escape(keyword)}(?!\w)"
@@ -304,23 +302,18 @@ def contar_keyword(texto, keyword):
     if not coincidencias:
         return 0
 
-    # Peso según longitud del keyword
-    if len(keyword.split()) > 1:  # palabras compuestas
+    if len(keyword.split()) > 1:
         peso = 4
-    elif len(keyword) <= 3:        # palabras muy cortas
+    elif len(keyword) <= 3:
         peso = 1
     else:
         peso = 2
 
     return len(coincidencias) * peso
 
-# --- Calcular score total ---
-
 
 def calcular_score(texto, keywords):
     return sum(contar_keyword(texto, keyword) for keyword in keywords)
-
-# --- Encontrar la mejor etiqueta ---
 
 
 def mejor_etiqueta(texto, mapa):
@@ -334,8 +327,6 @@ def mejor_etiqueta(texto, mapa):
             mejor_score = score
 
     return mejor_nombre, mejor_score
-
-# --- Clasificar evento usando taxonomía ---
 
 
 def clasificar_evento(evento):
