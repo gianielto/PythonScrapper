@@ -5,7 +5,8 @@ venv/
 env/
 ENV/
 .venv/
-
+normalizador/
+pruebas/
 # =========================
 # Caché de Python
 # =========================

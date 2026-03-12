@@ -4,8 +4,36 @@ import unicodedata
 
 from Extraer_DatosDE_Actividad import obtener_detalle_evento
 from extraerID_Actividades import extraer_event_ids
-from Clasificar_Actividad import clasificar_evento
+# from Clasificar_Actividad import clasificar_evento
+from event_classifer.classifier.classify_event import classify_event as clasificar_evento
 from guardarEventos import guardar_eventos_supabase
+
+
+# def main():
+#     eventExample = {
+#         "nombre": "PUNTO EMPRESARIAL 2026",
+#         "descripcion": "El encuentro empresarial que marca el rumbo 2026–2028: informe, toma de compromiso y líderes que transforman Jalisco.",
+#         "imagen": "https://ejemplo.com/imagenes/festival-jazz-guadalajara.jpg",
+#         "actividad_g": "musica",
+#         "interes": "cultura",
+#         "clase": "festival",
+#         "fecha_inicio": "2026-05-15T19:00:00",
+#         "fecha_limite": "2026-05-17T23:30:00",
+#         "venue_nombre": "Teatro Degollado",
+#         "ciudad": "Guadalajara",
+#         "categoria_nombre": "Business & Professional",
+#         "url_evento": "https://ejemplo.com/eventos/festival-jazz-guadalajara",
+#         "direccion_completa": "Calle Degollado s/n, Zona Centro, 44100 Guadalajara, Jalisco, México",
+#         "score_clasificacion": 0.93
+#     }
+
+#     js = clasificar_evento(eventExample)
+#     print(js)
+
+
+# if __name__ == "__main__":
+#     main()
+
 
 BASE_URL = "https://www.eventbrite.com.mx/d/mexico--guadalajara/all-events/"
 MAX_PAGINAS = 8
@@ -71,6 +99,10 @@ def recolectar_ids(max_paginas):
 def procesar_evento(event_id, fecha_hoy):
     detalle = obtener_detalle_evento(event_id)
 
+    # Filtro temporal desactivado para pruebas.
+    # if not es_evento_de_hoy(detalle.get("fecha_inicio"), fecha_hoy):
+    # return None # Filtro temporal desactivado para pruebas.
+
     if not es_evento_en_guadalajara(detalle):
         return None
 
@@ -80,23 +112,25 @@ def procesar_evento(event_id, fecha_hoy):
         "nombre": detalle.get("nombre"),
         "descripcion": detalle.get("descripcion"),
         "imagen": detalle.get("imagen"),
-        "actividad_g": clasificacion.get("actividad_g"),
-        "interes": clasificacion.get("interes"),
-        "clase": clasificacion.get("clase"),
+        "actividad_g": clasificacion.get("activity"),
+        "interes": clasificacion.get("interest"),
+        "clase": clasificacion.get("category"),
         "fecha_inicio": detalle.get("fecha_inicio"),
         "fecha_limite": detalle.get("fecha_limite"),
         "venue_nombre": detalle.get("venue_nombre"),
         "ciudad": detalle.get("ciudad"),
+        "categoria_nombre": detalle.get("categoria_nombre"),
+        "url_evento": detalle.get("url_evento"),
         "direccion_completa": detalle.get("direccion_completa"),
-        "score_clasificacion": clasificacion.get("score")
+        "score_clasificacion": clasificacion.get("confidence")
     }
 
 
 def guardar_eventos(eventos):
-
+    guardar_eventos_supabase(eventos)
     with open("eventos.txt", "w", encoding="utf-8") as f:
         f.write("===== EVENTOS ESTRUCTURADOS =====\n\n")
-        guardar_eventos_supabase(eventos)
+
         for i, evento in enumerate(eventos, 1):
             f.write(f"EVENTO #{i}\n")
             f.write(f"Nombre: {evento['nombre']}\n")
@@ -111,6 +145,8 @@ def guardar_eventos(eventos):
             f.write(f"Ciudad: {evento['ciudad']}\n")
             f.write(f"Dirección: {evento['direccion_completa']}\n")
             f.write(f"Score clasificación: {evento['score_clasificacion']}\n")
+            f.write(f"Categoría: {evento['categoria_nombre']}\n")
+            f.write(f"URL Evento: {evento['url_evento']}\n")
             f.write("-" * 60 + "\n\n")
 
 
