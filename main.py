@@ -1,7 +1,3 @@
-from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import datetime
-import unicodedata
-
 from Extraer_DatosDE_Actividad import obtener_detalle_evento
 from extraerID_Actividades import extraer_event_ids
 # from Clasificar_Actividad import clasificar_evento
@@ -9,30 +5,7 @@ from event_classifer.classifier.classify_event import classify_event as clasific
 from guardarEventos import guardar_eventos_supabase
 
 
-# def main():
-#     eventExample = {
-#         "nombre": "PUNTO EMPRESARIAL 2026",
-#         "descripcion": "El encuentro empresarial que marca el rumbo 2026–2028: informe, toma de compromiso y líderes que transforman Jalisco.",
-#         "imagen": "https://ejemplo.com/imagenes/festival-jazz-guadalajara.jpg",
-#         "actividad_g": "musica",
-#         "interes": "cultura",
-#         "clase": "festival",
-#         "fecha_inicio": "2026-05-15T19:00:00",
-#         "fecha_limite": "2026-05-17T23:30:00",
-#         "venue_nombre": "Teatro Degollado",
-#         "ciudad": "Guadalajara",
-#         "categoria_nombre": "Business & Professional",
-#         "url_evento": "https://ejemplo.com/eventos/festival-jazz-guadalajara",
-#         "direccion_completa": "Calle Degollado s/n, Zona Centro, 44100 Guadalajara, Jalisco, México",
-#         "score_clasificacion": 0.93
-#     }
 
-#     js = clasificar_evento(eventExample)
-#     print(js)
-
-
-# if __name__ == "__main__":
-#     main()
 
 
 BASE_URL = "https://www.eventbrite.com.mx/d/mexico--guadalajara/all-events/"
